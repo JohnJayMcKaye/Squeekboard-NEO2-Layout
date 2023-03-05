@@ -5,3 +5,6 @@ Copy this [file](https://raw.githubusercontent.com/JohnJayMcKaye/Squeekboard-NEO
 And don`t forgett to set the neo2 Keyboardlayout in Settings. 
 
 ==and maybe reboot== 
+
+
+![](https://github.com/JohnJayMcKaye/Squeekboard-NEO2-Layout/raw/main/Squeekboard%20neo2.png)
